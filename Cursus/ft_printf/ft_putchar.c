@@ -6,11 +6,11 @@
 /*   By: niperez <niperez@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/26 11:40:16 by niperez           #+#    #+#             */
-/*   Updated: 2024/05/26 20:25:25 by niperez          ###   ########.fr       */
+/*   Updated: 2024/05/28 17:11:47 by niperez          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_putchar(char c)
 {

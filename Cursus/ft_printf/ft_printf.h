@@ -6,12 +6,12 @@
 /*   By: niperez <niperez@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/26 10:57:37 by niperez           #+#    #+#             */
-/*   Updated: 2024/05/28 16:19:12 by niperez          ###   ########.fr       */
+/*   Updated: 2024/05/28 17:09:56 by niperez          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef LIBFTPRINTF_H
-# define LIBFTPRINTF_H
+#ifndef FT_PRINTF_H
+# define FT_PRINTF_H
 
 # include <stdarg.h>
 # include <unistd.h>

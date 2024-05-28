@@ -6,11 +6,11 @@
 /*   By: niperez <niperez@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/26 17:30:26 by niperez           #+#    #+#             */
-/*   Updated: 2024/05/27 19:51:59 by niperez          ###   ########.fr       */
+/*   Updated: 2024/05/28 17:09:11 by niperez          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 static void	ft_putnbr(unsigned int n, int *count)
 {

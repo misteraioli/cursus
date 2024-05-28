@@ -6,11 +6,11 @@
 /*   By: niperez <niperez@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/26 17:28:01 by niperez           #+#    #+#             */
-/*   Updated: 2024/05/27 19:51:47 by niperez          ###   ########.fr       */
+/*   Updated: 2024/05/28 17:09:15 by niperez          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_print_s(char *str)
 {

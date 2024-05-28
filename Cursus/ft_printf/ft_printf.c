@@ -6,11 +6,11 @@
 /*   By: niperez <niperez@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/26 11:22:38 by niperez           #+#    #+#             */
-/*   Updated: 2024/05/27 20:15:16 by niperez          ###   ########.fr       */
+/*   Updated: 2024/05/28 17:30:15 by niperez          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 static int	ft_is_in(int c, char *str)
 {
